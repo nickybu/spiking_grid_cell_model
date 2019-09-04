@@ -6,6 +6,8 @@ Supervised by Prof. Steve Furber and Dr. Oliver Rhodes.
 BibTeX citation: 
 @phdthesis{buttigieg_2019, title={Spiking Grid Cell Models on Neuromorphic Hardware}, author={Buttigieg, Nicholas}, year={2019}}
 
+View dissertation paper [here](https://drive.google.com/open?id=13XieNtgd5JgAe8DdlFiex3CRNSRz7o74).
+
 ***
 
 ## Setting up 
