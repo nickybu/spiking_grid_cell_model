@@ -1,0 +1,26 @@
+source bin/activate
+cd SpiNNFrontEndCommon/
+git pull
+cd ../SpiNNUtils/
+git pull
+cd ../SpiNNStorageHandlers/
+git pull
+cd ../SpiNNMan/
+git pull
+cd ../SpiNNMachine/
+git pull
+cd ../SpiNNakerGraphFrontEnd/
+git pull
+cd ../spinnaker_tools/
+git pull
+cd ../spinn_common/
+git pull
+cd ../PACMAN/
+git pull
+cd ../DataSpecification/
+git pull
+cd ../PyNN8Examples/
+git pull
+cd ../spalloc/
+git pull
+
